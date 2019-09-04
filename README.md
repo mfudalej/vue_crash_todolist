@@ -1,5 +1,9 @@
 # vue_crash_todolist
 
+This is the TodoList app v1.0.0. It is part of the Vue crash course on Youtube
+
+live: https://vue-crash-todolist.onrender.com/
+
 ## Project setup
 ```
 npm install
